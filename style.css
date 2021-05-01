@@ -1,0 +1,68 @@
+body{
+    background-color: powderblue;
+}
+
+h1 {
+    color: red;
+    margin: auto;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+li.special{
+    color: orange;
+    font-weight: bold;
+    
+}
+
+li em{
+    color: rebeccapurple;
+}
+
+.center{
+    text-align: center;
+}
+
+.centerImage{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 17%;
+  height: auto;
+}
+
+.centerh{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 34%;
+  height: auto;
+  padding: 10px;
+}
+
+div.sideby{
+    display: inline-block;
+    max-width: 30%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+}
+
+
+#beginlist{
+    padding: 10px;
+}
+
+#leftimage{
+    margin-left: 10%;
+    margin-right: auto;
+    max-width: 17%;
+    height: auto;
+}
+
+
