@@ -44,6 +44,18 @@ li em{
   padding: 10px;
 }
 
+.imagecontainer{
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.imagecontainer.image{
+    flex-direction: row;
+    display: block;
+    height: auto;
+}
+
 div.sideby{
     display: inline-block;
     max-width: 30%;
